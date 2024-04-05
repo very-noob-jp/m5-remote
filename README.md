@@ -10,3 +10,5 @@ tested devices:toshiba tv and m5stick c plus
 Paste or bring m5stack close to the TV's IR receiver.
 # caution
 Some m5stacks may require a module to emit an IR signal.
+# secret code
+Please look for it. If you answer correctly, my discord name will appear.
